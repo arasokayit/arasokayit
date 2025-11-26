@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👨‍💻 Aras Okay — Python Backend Developer
 
-<!--
-**arasokayit/arasokayit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer specializing in **Python, FastAPI, SQL, Docker** and high-performance API services.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- **Languages:** Python, JavaScript (basic), SQL
+- **Frameworks:** FastAPI, Flask
+- **Databases:** PostgreSQL, MySQL
+- **Tools:** Docker, Git, Linux
+- **Other:** REST API design, microservices, clean architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects
+- 🔹 **FastAPI Auth Service** — JWT, OAuth2, PostgreSQL  
+- 🔹 **URL Shortener API** — High-performance service  
+- 🔹 **E-commerce Backend** — Products, orders, payments  
+- 🔹 **Crypto Price Tracker** — Realtime Binance API  
+
+### 📫 Contact
+Email: info@oktaygoksel.it 
+Telegram: @aresprogrammer
